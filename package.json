@@ -1,6 +1,6 @@
 {
   "name": "modified-shadcn-day-picker",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This is a modified version of Shad CN Date Picker. You can select a custom year and month based on your preference. Modified by Nadim Chowdhury.",
   "main": "index.js",
   "type": "module",
